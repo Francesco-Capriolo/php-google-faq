@@ -1,0 +1,23 @@
+header {
+    height: 100px;
+    border-bottom: 1px solid gray;
+    position: fixed;
+    background-color: white;
+}
+
+img {
+    width: 100px;
+}
+
+.account {
+    border-radius: 50%;
+}
+
+main {
+    padding-top: 150px;
+}
+
+.answer {
+    width: 80%;
+    margin: auto;
+}
